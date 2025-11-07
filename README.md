@@ -44,6 +44,7 @@ contacts_app/           # Main application folder
 ├── urls.py             # URL routing for contact endpoints
 ├── views.py            # Views / API logic
 manage.py               # Django project manager
+requirements.txt
 ```
 
 ## Setup Instructions
