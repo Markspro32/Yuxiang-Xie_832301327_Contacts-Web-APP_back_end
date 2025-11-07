@@ -139,4 +139,4 @@ class ContactDetailView(View):
 
 def index(request):
     return HttpResponsePermanentRedirect(
-        'https://markspro32.github.io/Yuxiang-Xie_832301327_Contacts-Web-App_front_end/')
+        'http://markspro32.github.io/Yuxiang-Xie_832301327_Contacts-Web-App_front_end/')
